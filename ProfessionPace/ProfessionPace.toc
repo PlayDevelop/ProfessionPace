@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: ProfessionPace
+## Notes: Track your professions against your character level. /pp
+## Author: Local addon
+## Version: 0.2.0
+## X-License: MIT
+## SavedVariablesPerCharacter: ProfessionPaceDB
+
+Logic.lua
+ProfessionPace.lua
